@@ -1,4 +1,11 @@
-### Olá, me chamo Lucas👋
-##
-[![lucasmairon's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lucasmairon&show_icons=true&theme=gotham)](https://github.com/lucasmairon/github-readme-stats#gh-dark-mode-only)
-<a href="https://github.com/LucasMairon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMairon&layout=compact&theme=gotham" height="99%" width="466" viewbox="0 0 466 195"/></a>
+<div align="center">
+
+
+## 📊 *GitHub Stats*:
+
+<a href="https://github.com/LucasMairon">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMairon&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMairon&layout=compact&langs_count=7&theme=blueberry"/>
+
+</div>
+
